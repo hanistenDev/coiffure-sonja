@@ -59,6 +59,6 @@ export const sonjaReviews = [
 
 export const aboutParagraphs = [
   "Über 35 Jahre Berufserfahrung und die Freude an meinem Beruf begleiten mich jeden Tag. In meinem kleinen Salon an der Nordstrasse nehme ich mir Zeit für persönliche Beratung und individuelle Wünsche.",
-  "Haargesundheit ist mir sehr wichtig. Schönheit kommt von aussen – Haargesundheit von innen. Und da nehme ich mir gerne Zeit, Sie zu beraten.",
+  "Haargesundheit ist mir sehr wichtig. Schönheit kommt von aussen – Haargesundheit von innen.",
   "Ob klassischer Haarschnitt, moderne Farbe oder eine kleine Beauty-Behandlung – wichtig ist mir, dass Sie sich bei mir wohlfühlen und den Salon zufrieden verlassen.",
 ] as const;

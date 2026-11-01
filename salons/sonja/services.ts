@@ -10,4 +10,5 @@ export const sonjaServiceAreas: SonjaServiceArea[] = [
   { id: "dauerwelle", title: "Dauerwelle" },
   { id: "augenbrauen", title: "Augenbrauen & Wimpern" },
   { id: "manicure", title: "Manicure / Nägel" },
+  { id: "haarausfallberatung", title: "Haarausfallberatung" },
 ];

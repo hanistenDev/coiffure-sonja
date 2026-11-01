@@ -10,7 +10,7 @@ export const content: SalonContent = {
     "Seit über 35 Jahren steht Sonja Rémy für persönliche Beratung, professionelle Coiffure und einen bewussten Umgang mit der Haargesundheit – mitten in Zürich-Wipkingen.",
   aboutTitle: "Persönlich. Herzlich. Mit Erfahrung.",
   aboutText:
-    "Über 35 Jahre Berufserfahrung und die Freude an meinem Beruf begleiten mich jeden Tag. In meinem kleinen Salon an der Nordstrasse nehme ich mir Zeit für persönliche Beratung und individuelle Wünsche. Haargesundheit ist mir sehr wichtig. Schönheit kommt von aussen – Haargesundheit von innen. Und da nehme ich mir gerne Zeit, Sie zu beraten. Ob klassischer Haarschnitt, moderne Farbe oder eine kleine Beauty-Behandlung – wichtig ist mir, dass Sie sich bei mir wohlfühlen und den Salon zufrieden verlassen.",
+    "Über 35 Jahre Berufserfahrung und die Freude an meinem Beruf begleiten mich jeden Tag. In meinem kleinen Salon an der Nordstrasse nehme ich mir Zeit für persönliche Beratung und individuelle Wünsche. Haargesundheit ist mir sehr wichtig. Schönheit kommt von aussen – Haargesundheit von innen. Ob klassischer Haarschnitt, moderne Farbe oder eine kleine Beauty-Behandlung – wichtig ist mir, dass Sie sich bei mir wohlfühlen und den Salon zufrieden verlassen.",
   address: {
     street: "Nordstrasse 237",
     zip: "8037",
@@ -37,6 +37,7 @@ export const content: SalonContent = {
     { id: "dauerwelle", title: "Dauerwelle" },
     { id: "augenbrauen", title: "Augenbrauen & Wimpern" },
     { id: "manicure", title: "Manicure / Nägel" },
+    { id: "haarausfallberatung", title: "Haarausfallberatung" },
   ],
   galleryTitle: "Der Salon",
   galleryIntro: "Klein, hell und persönlich – an der Nordstrasse in Zürich-Wipkingen.",

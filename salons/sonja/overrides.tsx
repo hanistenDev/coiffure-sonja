@@ -154,7 +154,7 @@ function SonjaServices({ salon }: SectionProps) {
         <p className="mt-4 max-w-xl text-[17px] leading-relaxed text-muted">
           {salon.content.servicesIntro}
         </p>
-        <SonjaServicesPanel bookingUrl={treatwellUrl(salon)} />
+        <SonjaServicesPanel bookingUrl={treatwellUrl(salon)} phoneHref={salon.phoneTel} />
       </FadeUp>
     </section>
   );
