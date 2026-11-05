@@ -211,7 +211,7 @@ function SonjaSignature() {
         <div className="mx-auto max-w-3xl border-y border-line py-7 text-center md:py-9">
           <div className="mx-auto mb-5 h-px w-10 bg-accent" aria-hidden />
           <p className="font-serif text-[1.85rem] font-semibold leading-[1.15] tracking-tight md:text-[2.45rem]">
-            Schönheit kommt von aussen –
+            Schönheit kommt von aussen
             <br />
             Haargesundheit von innen.
           </p>
