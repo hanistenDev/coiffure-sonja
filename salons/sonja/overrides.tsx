@@ -427,6 +427,17 @@ function SonjaFooter({ salon }: SectionProps) {
           </a>
         </div>
       </div>
+      <p className="mx-auto max-w-page border-t border-line px-5 py-5 text-[13px] text-muted-dim md:px-8">
+        Designed & developed by{" "}
+        <a
+          href="https://wistho.ch"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="transition-colors hover:text-ink"
+        >
+          Wistho
+        </a>
+      </p>
     </footer>
   );
 }

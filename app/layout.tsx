@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Cormorant_Garamond, Outfit } from "next/font/google";
 import {
-  CONTACT_EMAIL,
   FACEBOOK_URL,
   INSTAGRAM_URL,
   SITE_URL,
@@ -28,11 +27,11 @@ export const metadata: Metadata = {
   description:
     "Coiffure Sonja in Zürich-Wipkingen: persönliche Beratung, über 35 Jahre Erfahrung und ein bewusster Umgang mit der Haargesundheit.",
   alternates: {
-    canonical: "/",
+    canonical: SITE_URL,
   },
   robots: {
-    index: false,
-    follow: false,
+    index: true,
+    follow: true,
   },
   openGraph: {
     title: "Coiffure Sonja | Coiffeuse in Zürich-Wipkingen",
@@ -65,7 +64,6 @@ const jsonLd = {
   url: SITE_URL,
   image: `${SITE_URL}/salons/sonja/interior-overview.png`,
   telephone: "+41 79 588 96 10",
-  email: CONTACT_EMAIL,
   address: {
     "@type": "PostalAddress",
     streetAddress: "Nordstrasse 237",

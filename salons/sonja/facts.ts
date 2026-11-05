@@ -1,5 +1,4 @@
 export const SITE_URL = "https://coiffure-sonja.ch";
-export const CONTACT_EMAIL = "coiffuresonjaremy@gmail.com";
 
 export const TREATWELL_URL = "https://trea.tw/Ht25bzUPnUyYXeLAZ";
 
